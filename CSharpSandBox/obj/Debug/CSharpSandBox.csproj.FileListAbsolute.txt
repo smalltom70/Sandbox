@@ -1,0 +1,8 @@
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\bin\Debug\CSharpSandBox.exe.config
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\obj\Debug\CSharpSandBox.csprojResolveAssemblyReference.cache
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\bin\Debug\CSharpSandBox.exe
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\bin\Debug\CSharpSandBox.pdb
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\bin\Debug\Newtonsoft.Json.dll
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\bin\Debug\Newtonsoft.Json.xml
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\obj\Debug\CSharpSandBox.exe
+C:\ProjectWork\CSharpSandBox\CSharpSandBox\obj\Debug\CSharpSandBox.pdb
